@@ -1,0 +1,13 @@
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\bin\Debug\AadLogin.exe.config
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\bin\Debug\AadLogin.exe
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\bin\Debug\AadLogin.pdb
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\bin\Debug\System.Data.SqlClient.dll
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\bin\Debug\System.Data.SqlClient.xml
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\obj\Debug\AadLogin.csprojAssemblyReference.cache
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\obj\Debug\AadLogin.csproj.CoreCompileInputs.cache
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\obj\Debug\AadLogin.csproj.CopyComplete
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\obj\Debug\AadLogin.exe
+C:\Users\anshriv\source\repos\AadLogin\AadLogin\obj\Debug\AadLogin.pdb
